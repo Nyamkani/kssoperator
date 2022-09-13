@@ -29,6 +29,18 @@ set(PROJECT_SOURCES
         Module/mainwindow/mainwindow.h
         Module/mainwindow/mainwindow.ui
 
+        #ui1 dialog
+        Module/mainwindow/ui1/ui1.cpp
+        Module/mainwindow/ui1/ui1.h
+        Module/mainwindow/ui1/ui1.ui
+
+        #ui2 dialog
+        Module/mainwindow/ui2/ui2.cpp
+        Module/mainwindow/ui2/ui2.h
+        Module/mainwindow/ui2/ui2.ui
+
+
+
         ${TS_FILES}
 )
 

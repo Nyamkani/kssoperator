@@ -6,6 +6,7 @@
 #include <QLocale>
 #include <QTranslator>
 
+
 //mainwindow
 #include "Module/mainwindow/mainwindow.h"
 

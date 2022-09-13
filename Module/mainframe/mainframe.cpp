@@ -21,6 +21,7 @@ mainframe::~mainframe()
 
 int mainframe::mainwindow_initialize()
 {
+    //dont
     int argc =0;
     char **argv = nullptr;
     QApplication a(argc, argv);
